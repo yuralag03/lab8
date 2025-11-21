@@ -22,7 +22,7 @@
 ![Блок схема алгоритма](lab8.png)
 ## 2. Реализация программы:
 ```
-#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_DEPRECATE
 #include <stdio.h>
 #include <locale.h>
 #include <math.h>
